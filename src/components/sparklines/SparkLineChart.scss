@@ -1,0 +1,26 @@
+$black-2: #464646;
+
+.SparkLineChart {
+  height: 50%;
+
+  .chart-label,
+  .x-axis-label {
+    display: none;
+  }
+
+  .x-axis {
+    .domain {
+      stroke: transparent;
+    }
+    .tick {
+      path {
+        stroke: rgba($black-2, 0.8);
+      }
+    }
+  }
+
+  line.gridlines {
+      stroke-width: 1px;
+      stroke: $black-2;
+  }
+}

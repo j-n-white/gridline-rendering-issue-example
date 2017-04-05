@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "compileOnSave": false,
+    "include": [
+        "src/**/*", "typings/**/*"
+    ]
+}
