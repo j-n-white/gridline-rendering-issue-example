@@ -1,0 +1,3 @@
+[submodule "lib/custom-react-scripts-ts"]
+	path = lib/custom-react-scripts-ts
+	url = https://github.com/chriswilty/custom-react-scripts.git
