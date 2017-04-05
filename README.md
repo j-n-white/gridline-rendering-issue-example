@@ -2,7 +2,7 @@
 
 ## Reproduction
 
-* `git clone --recursive {{ site.github.url }}`
+* `git clone --recursive https://github.com/j-n-white/gridline-rendering-issue-example.git`
 (using `--recursive` is important here, as it will initialise the client's _create-react-app_ submodule)
 
 * `npm install`
